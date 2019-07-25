@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "480075526656",
+    "firebase_url": "https://parkir-15085.firebaseio.com",
+    "project_id": "parkir-15085",
+    "storage_bucket": "parkir-15085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480075526656:android:b22b1a2446a0125c",
+        "android_client_info": {
+          "package_name": "com.alya.parkir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480075526656-5bssc38tjc1jqi7fvvq3jbcvsptgqrnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alya.parkir",
+            "certificate_hash": "95dcb99b527ba175b0bea37075f5306fcf759fd5"
+          }
+        },
+        {
+          "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GGZRFSK9KLuZhiDGm92wIrd6fxlXOsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480075526656:android:5bbfa0ad9f97b036",
+        "android_client_info": {
+          "package_name": "com.example.laptop_apik.parkir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480075526656-7fhjrdu7qpn7apkaci2triavbbrlnio6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laptop_apik.parkir",
+            "certificate_hash": "1f2721a1404ac477446368e9c7541a87e7198d16"
+          }
+        },
+        {
+          "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GGZRFSK9KLuZhiDGm92wIrd6fxlXOsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480075526656:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480075526656-0of8mvhdroiep0nleabd1pporoomusak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "2fb04ee11eedfd0fcff57e8b9fb621def583bb12"
+          }
+        },
+        {
+          "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GGZRFSK9KLuZhiDGm92wIrd6fxlXOsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480075526656:android:b24386e5aaf2dfbd",
+        "android_client_info": {
+          "package_name": "com.example.parkir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480075526656-fteovc2ef7cld6odppknpog6btjh6vud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkir",
+            "certificate_hash": "2fb04ee11eedfd0fcff57e8b9fb621def583bb12"
+          }
+        },
+        {
+          "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GGZRFSK9KLuZhiDGm92wIrd6fxlXOsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480075526656-ochmn4aql1v0sde4fqb7rp4n8c4bt73a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
